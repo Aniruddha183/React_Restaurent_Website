@@ -1,4 +1,4 @@
-To check out my deploy site:
+To check out my deployed site:
 CLick here -> https://profound-quokka-b973b0.netlify.app/
 
 ![Screenshot 2023-04-06 234833](https://user-images.githubusercontent.com/93544213/230463280-f8a25e4d-f8e9-4daf-b2cc-dda6ec9b847a.png)
